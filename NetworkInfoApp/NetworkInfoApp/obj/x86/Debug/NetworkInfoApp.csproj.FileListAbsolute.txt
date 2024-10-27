@@ -1,0 +1,8 @@
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.MainForm.resources
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.Properties.Resources.resources
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.csproj.GenerateResource.Cache
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\bin\Debug\NetworkInfoApp.exe
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\bin\Debug\NetworkInfoApp.pdb
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.exe
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.pdb
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.About.resources
