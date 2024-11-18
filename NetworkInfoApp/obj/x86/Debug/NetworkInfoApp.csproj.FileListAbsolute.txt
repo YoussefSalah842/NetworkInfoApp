@@ -1,0 +1,10 @@
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.MainForm.resources
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.Properties.Resources.resources
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.csproj.GenerateResource.Cache
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\bin\Debug\NetworkInfoApp.exe
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\bin\Debug\NetworkInfoApp.pdb
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.exe
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.pdb
+c:\users\youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.About.resources
+C:\Users\Youssef\documents\visual studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.IPconfig_settings.resources
+C:\Users\Youssef\Documents\Visual Studio 2010\Projects\NetworkInfoApp\NetworkInfoApp\obj\x86\Debug\NetworkInfoApp.csprojResolveAssemblyReference.cache
