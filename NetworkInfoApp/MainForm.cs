@@ -86,7 +86,7 @@ namespace NetworkInfoApp
                  lblNetworkInterface.Text;
 
             Clipboard.SetText(allInfo);
-            MessageBox.Show("Information copied to clipboard!");
+            MessageBox.Show("Information copied to clipboard!", "Copy Information",MessageBoxButtons.OK,MessageBoxIcon.Question);
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -119,6 +119,12 @@ namespace NetworkInfoApp
         {
             IPconfig_settings IPSettings = new IPconfig_settings();
             IPSettings.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("devmgmt.msc");
+            MessageBox.Show("The Device Manager will now open. Go to the network section and choose the network driver. Right-click and choose Update Driver. Then it will be updated via the Internet, or you can download the driver from the company’s website for your device. If you do not have the Internet", "Device Manager", MessageBoxButtons.OK, MessageBoxIcon.Question);
         }
     }
 }

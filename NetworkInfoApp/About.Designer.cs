@@ -66,8 +66,8 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(165, 80);
             this.label2.TabIndex = 2;
-            this.label2.Text = "NetInfo Explorer\r\nVersion: 1.1\r\nBuild: 2600\r\nDeveloper: Youssef Salah\r\nRelease Da" +
-    "te: 2024/10/26";
+            this.label2.Text = "NetInfo Explorer\r\nVersion: 1.2\r\nBuild: 2800\r\nDeveloper: Youssef Salah\r\nRelease Da" +
+    "te: 2024/11/20";
             // 
             // label3
             // 
