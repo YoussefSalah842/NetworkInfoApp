@@ -180,7 +180,7 @@
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 101);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(471, 210);
+            this.groupBox1.Size = new System.Drawing.Size(530, 210);
             this.groupBox1.TabIndex = 10;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Information displayer";
@@ -189,7 +189,7 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(362, 189);
+            this.linkLabel1.Location = new System.Drawing.Point(417, 191);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(107, 16);
             this.linkLabel1.TabIndex = 6;
@@ -291,7 +291,7 @@
             this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button6.Location = new System.Drawing.Point(400, 337);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(111, 23);
+            this.button6.Size = new System.Drawing.Size(142, 23);
             this.button6.TabIndex = 17;
             this.button6.Text = "Update Network Driver";
             this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;

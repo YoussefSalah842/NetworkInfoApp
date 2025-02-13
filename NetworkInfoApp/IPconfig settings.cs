@@ -86,5 +86,10 @@ namespace NetworkInfoApp
         {
             this.Close();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("The ipconfig command is used to display information about your network configuration and refresh DHCP and DNS Settings. By default, the ipconfig command displays your IP Address, Subnet Mask, and default gateway.", "What is ipconfig", MessageBoxButtons.OK, MessageBoxIcon.Question);
+        }
     }
 }
