@@ -39,6 +39,7 @@
             this.button5 = new System.Windows.Forms.Button();
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -116,6 +117,7 @@
             // 
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel1.Controls.Add(this.button7);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
@@ -189,7 +191,7 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(417, 191);
+            this.linkLabel1.Location = new System.Drawing.Point(408, 176);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(107, 16);
             this.linkLabel1.TabIndex = 6;
@@ -205,7 +207,7 @@
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(90, 337);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(111, 23);
+            this.button1.Size = new System.Drawing.Size(122, 23);
             this.button1.TabIndex = 11;
             this.button1.Text = "Internet Explorer";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -219,9 +221,9 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(207, 337);
+            this.button2.Location = new System.Drawing.Point(218, 337);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(187, 23);
+            this.button2.Size = new System.Drawing.Size(192, 23);
             this.button2.TabIndex = 12;
             this.button2.Text = "Network settings in Control Panel";
             this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -289,15 +291,30 @@
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button6.Image = ((System.Drawing.Image)(resources.GetObject("button6.Image")));
             this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button6.Location = new System.Drawing.Point(400, 337);
+            this.button6.Location = new System.Drawing.Point(416, 337);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(142, 23);
+            this.button6.Size = new System.Drawing.Size(111, 23);
             this.button6.TabIndex = 17;
             this.button6.Text = "Update Network Driver";
             this.button6.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.toolTip1.SetToolTip(this.button6, "Click here to open network settings in the control panel");
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // button7
+            // 
+            this.button7.BackColor = System.Drawing.Color.Transparent;
+            this.button7.FlatAppearance.BorderSize = 0;
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button7.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.ForeColor = System.Drawing.Color.White;
+            this.button7.Location = new System.Drawing.Point(422, 22);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(119, 44);
+            this.button7.TabIndex = 2;
+            this.button7.Text = "Get Help?";
+            this.button7.UseVisualStyleBackColor = false;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // MainForm
             // 
@@ -352,5 +369,6 @@
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.LinkLabel linkLabel1;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
     }
 }

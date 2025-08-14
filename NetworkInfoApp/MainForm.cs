@@ -126,5 +126,11 @@ namespace NetworkInfoApp
             System.Diagnostics.Process.Start("devmgmt.msc");
             MessageBox.Show("The Device Manager will now open. Go to the network section and choose the network driver. Right-click and choose Update Driver. Then it will be updated via the Internet, or you can download the driver from the company’s website for your device. If you do not have the Internet", "Device Manager", MessageBoxButtons.OK, MessageBoxIcon.Question);
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Help HelpApp = new Help();
+            HelpApp.ShowDialog();
+        }
     }
 }
